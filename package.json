@@ -30,7 +30,7 @@
     "iced-runtime": "0.0.2",
     "iced-utils": "^0.1.18",
     "keybase-bitcoinjs-lib": "^0.2.0-2",
-    "minimist": "^0.1.0",
+    "minimist": "^1.2.5",
     "pgp-utils": "0.0.22",
     "request": "2.81.0"
   },
